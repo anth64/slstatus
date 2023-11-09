@@ -52,3 +52,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# slstatus specific
+config.h
+*.orig
+patches/
+slstatus
